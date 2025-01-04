@@ -35,13 +35,3 @@ Explore the dataset and perform the following tasks using PySpark DataFrames:
 
 2. **Clustering Analysis**  
    - Use PySpark built-in **K-Means** and **Bisecting K-Means** clustering algorithms to cluster the Wine dataset.
-
----
-
-## Requirements
-- Python 3.x
-- PySpark
-- Wine dataset (from the previous lab)
-- Movies.csv dataset
-
----
